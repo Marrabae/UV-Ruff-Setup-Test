@@ -11,6 +11,7 @@ Deskripsi
 FastAPI → framework web ringan untuk membuat REST API.
 
 pytest → untuk testing.
+
 📖 Apa yang Saya Pelajari
 
 **uv**
@@ -30,4 +31,5 @@ Ruff digunakan untuk melakukan linting sekaligus formatting.
 Membantu membuat kode seragam sesuai standar, sehingga lebih readable.
 
 Walaupun ditulis oleh banyak orang, kode tetap konsisten dan mudah dipahami.
+
 
