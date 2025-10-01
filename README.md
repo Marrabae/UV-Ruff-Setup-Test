@@ -14,7 +14,7 @@ pytest → untuk testing.
 
 📖 Apa yang Saya Pelajari
 
-**uv**
+o **uv**
 
 uv berguna untuk menjadi package manager yang lebih cepat dan efisien.
 
@@ -24,12 +24,13 @@ Setiap menjalankan perintah uv, environment otomatis aktif di root project.
 
 Hal ini mencegah clash antar project karena tiap project punya environment terisolasi.
 
-**ruff**
+o **ruff**
 
 Ruff digunakan untuk melakukan linting sekaligus formatting.
 
 Membantu membuat kode seragam sesuai standar, sehingga lebih readable.
 
 Walaupun ditulis oleh banyak orang, kode tetap konsisten dan mudah dipahami.
+
 
 
